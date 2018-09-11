@@ -22,6 +22,8 @@ function iLoveTheBeatles(number) {
   
   var n = [];
   
-  
-  
+  do{
+    n.push('I love the Beatles!');
+  }
+  while()
 }
