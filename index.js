@@ -25,5 +25,6 @@ function iLoveTheBeatles(number) {
   do{
     n.push('I love the Beatles!');
   }
-  while()
+  while(i < number.length);
+  
 }
